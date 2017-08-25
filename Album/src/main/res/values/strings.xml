@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CameraDemo</string>
+
+    <string name="format_name_count">{0}({1})</string>
+
+    <string name="all_photos">所有照片</string>
+
+</resources>
